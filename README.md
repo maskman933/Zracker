@@ -4,6 +4,9 @@
 >- Yet available for Linux only ...
 >- Supports WordList Mode only but will surely get an Update with BruteForce Mode
 
+#### Dedicated WebSite: https://devim-stuffs.github.io/zracker/
+#### Link to Post on Null-Byte [by me]: https://null-byte.wonderhowto.com/forum/increasing-speed-cracking-zip-passwords-with-power-cpu-0341537/ 
+
 # Features
 
 ### [1] Auto Updater :tada:
